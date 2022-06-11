@@ -1,0 +1,11 @@
+{
+    "name": "audio control for videos",
+    "version": "1.0.0",
+    "description": "control videos player by AI voice",
+    "manifest_version": 3,
+    "author": "Teen9406",
+    "action": {
+        "default_popup": "image.html",
+        "default_title": "funny test"
+    }
+}
